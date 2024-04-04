@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100.700&display=swa);
+/*font-family; "oswald", sans-serif;*/
+body{
+    background-color: black;
+}
+h1{
+    text-shadow: 5px 5px 5px blue;
+    text-align: center;
+p}
+{line-height: 200%;}
+h2 .class{
+   color: brown;
+}
+p .justify{
+    font-size: 20px;
+    text-align: justify;
+}
+span{
+    color: blueviolet;
+    font-style: italic;
+}
+
+
+
+
+
+
+
+
