@@ -1,0 +1,10 @@
+body{
+    background-image: url('../IMG/pngtree-view-of-the-outer-space-with-all-the-planets-picture-image_3403234.jpg');
+    background-attachment: scroll;                                                         
+}
+p,h1{
+    background-color: aliceblue;
+}
+section{
+    height: 100vh;
+}

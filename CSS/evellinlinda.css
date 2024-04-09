@@ -1,0 +1,13 @@
+body{
+    background-image: url('../IMG/164937446.jfif');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: scroll;
+}   
+    
+p{
+    color: aqua;
+    text-align: justify;
+    line-height: 200%;
+}
+
