@@ -1,0 +1,16 @@
+*{
+    font-size: 25px;
+}
+
+p {
+    font-size: 20em;
+}
+
+.box1 {
+   font-size: 25rem;
+   
+}
+
+.box2{
+  font-size: 1.5em;
+}
